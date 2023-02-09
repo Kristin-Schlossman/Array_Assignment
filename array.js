@@ -18,3 +18,7 @@ console.log(ages);
 guests.push ("Frank");
 console.log(guests);
 //Adds listed object to the end of the array and returns new list. 
+
+//Index positions refer to the placement of the item within the array. Positions begin with 
+//0, so the first item, whether that be a number, string, etc is marked as 0. 
+//counting the items and then subtracting 1 should give you the corrext reference position. 
