@@ -1,0 +1,5 @@
+- I felt extremely confident in arrays when I was preparing for my pairing with seth today. I'd read all the documentation beforehand, and didn't have any pressing questions. But I'd missed an opportunity to dive deeper with a teammate because hidden in the CFU was something we hadn't covered as a team: boolean arrays. I've watched YT videos, and read both developer.mozilla and stack overflow and it's just not clicking with me. I definitely need help there and will be asking plenty of questions during our meeting if no one responds to my pm's tonight. 
+
+- Ideally I'd like to understand booleans before moving on, and I've made a note to keep researching until I find a method of explaination that fits. 
+
+- In documentation I'm seeing values like "i" and "let" in regards to boolean arrays. How does this fit in? Do I need to define each individual item in my boolean array as t/f? 
